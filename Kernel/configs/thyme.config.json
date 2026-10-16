@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Proton）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "name": "Mi10S-PixelOS16.2.260624",
+      "repo": "https://github.com/Flicker-Android-Devices/kernel_xiaomi_sm8250",
+      "branch": "sixteen-qpr2",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
     },
